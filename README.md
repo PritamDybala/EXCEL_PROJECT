@@ -10,6 +10,7 @@ OBJECTIVE : Vindra Store wants to create an annual sales report for 2022 so that
 
 
 Sample Questions : 
+
      1. Compare the sales and orders in a single chart.
      2. Which month got the highest sales and orders?
      3. Who purchased more - men or women in 2022?
