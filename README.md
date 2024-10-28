@@ -1,6 +1,11 @@
 # EXCEL_PROJECT
 This is a hands-on excel project where annual sales report of a store is created so it can improve the sales of the store by analyzing the previous data.
 OBJECTIVE : Vindra Store wants to create an annual sales report for 2022 so that they can understand their customer and grow more sales in 2023.
+
+
+
+
+
 Sample Questions : 
      1. Compare the sales and orders in a single chart.
      2. Which month got the highest sales and orders?
